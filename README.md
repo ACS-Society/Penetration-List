@@ -1,8 +1,6 @@
 <h1 align="center">Penetration-List</h1>
 
-<div align="center">
-   ![Penetration list](https://github.com/ACS-Society/Penetration-List/assets/149258693/ab763a6a-6700-4556-b697-f133128a1bea)
-</div>
+<img align="center" src="https://github.com/ACS-Society/Penetration-List/assets/149258693/ab763a6a-6700-4556-b697-f133128a1bea">
 
 <div align="center">
 <p align="center"><b>Share the Exciting Hacking Material</b></p>
